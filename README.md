@@ -26,10 +26,6 @@
 - [Next JS](https://nextjs.org/)
 - [Node JS](https://nodejs.org/)
 
-
-<br />
-<br />
-
 ---
 
 [website]: https://hassanxelamin.com
