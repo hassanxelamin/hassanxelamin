@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm [Hassan][website] 👋 I'm a software engineer currently seeking an apprenticeship position. My most previous experience has been with [Climb Hire](https://www.climbhire.co/) as a Salesforce Developer Trainee where I spent a rigorous 225+ hour training program focused on the Salesforce Administration Certification.
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hassanxelamin.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=hassanxelamin.com&style=for-the-badge&url=https%3A%2F%2Fhassanxelamin.com)](https://hassanxelamin.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hassanxelamin?color=%233bfecb&label=follow%20%40hassanxelamin&logoColor=%23c80c37&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhassanxelamin&screen_name=hassanxelamin)
 
 ## About Me
 
