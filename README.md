@@ -18,7 +18,6 @@
 - 😄 Pronouns: he/him
 
 <br />
-<br />
 
 ## 🔧 Tools I Like To Use
 
