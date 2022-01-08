@@ -6,6 +6,9 @@
 [<img align="left" alt="hassanxelamin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="hassanxelamin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+<br />
+
 ## About Me
 
 - 🔭 I’m currently working on: Getting my IBM Full Stack Cloud Developer Certificate so I can better understand cloud as a developer.
