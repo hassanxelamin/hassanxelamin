@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: Getting my IBM Full Stack Cloud Developer Certificate and Salesforce Admin Certification.
 - 🌱 I’m currently learning: How to build eccomerce websites with Next.JS & Stripe API 💸
 - 🤔 What I want to learn next: EVERYTHING 🤣
-- 📫 How to reach me: hassanxelamin@gmail.com
+- 📫 How to reach me: hello@${firstname + 'x' + lastname}.com
 - 😄 Pronouns: he/him
 
 <br />
