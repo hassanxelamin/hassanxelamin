@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Hassan 👋 I'm a software engineer currently seeking an apprenticeship position. My most previous experience has been with [Climb Hire](https://www.climbhire.co/) as a Salesforce Developer Trainee in a rigorous 225+ hour training program focused on the Salesforce Administration Certification.
+### 👋 Hi there, I'm Hassan 👋
 
 ### Connect with me:
 
@@ -9,9 +9,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working on: Getting my IBM Full Stack Cloud Developer Certificate and Salesforce Admin Certification.
-- 🌱 I’m currently learning: How to build eccomerce websites with Next.JS & Stripe API 💸
-- 🤔 What I want to learn next: EVERYTHING 🤣
+- 🔭 I’m currently working on: 
+- 🌱 I’m currently learning: Building React Component Design Systems with Figmagic & Storybook
+- 🤔 What I want to learn next: Docker & Kubernetes
 - 📫 How to reach me: hello@${firstname + 'x' + lastname}.com
 - 😄 Pronouns: he/him
 
@@ -22,6 +22,7 @@
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Next JS](https://nextjs.org/)
+- [Node JS](https://nodejs.org/)
 
 <br />
 
