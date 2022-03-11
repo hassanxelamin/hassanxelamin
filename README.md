@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Hassan 👋
 
 
-## About Me
 
+## About Me
 - 🔭 I’m currently working on: 
 - 🌱 I’m currently learning: Building React Component Design Systems with Figmagic & Storybook
 - 🤔 What I want to learn next: Docker & Kubernetes
@@ -11,8 +11,7 @@
 
 <br />
 
-## 🔧 Tools I Like To Use
-
+## Tools I Like To Use
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Next JS](https://nextjs.org/)
