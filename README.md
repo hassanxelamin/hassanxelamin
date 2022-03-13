@@ -13,7 +13,6 @@
 ## Tools I Like To Use
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Next JS](https://nextjs.org/)
 - [Node JS](https://nodejs.org/)
 
 <br />
