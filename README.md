@@ -3,8 +3,7 @@
 
 
 ## About Me
-- 🔭 I’m currently working on: 
-- 🌱 I’m currently learning: Building React Component Design Systems with Figmagic & Storybook
+- 🌱 I’m currently learninghow to build React Component Design Systems with Figmagic & Storybook
 - 🤔 What I want to learn next: Docker & Kubernetes
 - 📫 How to reach me: hello@${firstname + 'x' + lastname}.com
 - 😄 Pronouns: he/him
