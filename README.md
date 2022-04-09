@@ -4,8 +4,8 @@
 
 ## About Me
 - 🌱 I’m currently learninghow to build React Component Design Systems with Figmagic & Storybook
-- 🤔 What I want to learn next: Docker & Kubernetes
-- 📫 How to reach me: hello@${firstname + 'x' + lastname}.com
+- 🤔 What I want to learn next: How To Build DAOs ;)
+- 📫 How to reach me: hassanxelamin@gmail.com twitter: @hassanxelamin
 - 😄 Pronouns: he/him
 
 <br />
