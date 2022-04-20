@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/hassanxelamin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/whitelisab/)](https://www.linkedin.com/in/hassanxelamin/)
 [![GitHub](https://img.shields.io/badge/hassanxelamin%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/hassanxelamin)](https://github.com/hassanxelamin)
-[![Gmail](https://img.shields.io/badge/whitelisab%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:hassanxelamin@gmail.com)](mailto:hassanxelamin@gmail.com)
+[![Gmail](https://img.shields.io/badge/hassanxelamin%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:hassanxelamin@gmail.com)](mailto:hassanxelamin@gmail.com)
 
 - :office: Freelance Software Engineer
 - :round_pushpin: Based in San Diego, CA
