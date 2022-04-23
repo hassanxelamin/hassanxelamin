@@ -8,7 +8,7 @@
 - :round_pushpin: Based in San Diego, CA
 - :smile: Pronouns: he/him/his
 - 🌱 I’m currently learning to build WEB 3.0 Dapps using React & Solidity 
-- 🤔 What I want to learn next: How To Build DAOs ;)
+- 🤔 What I want to learn next: DAO Dapps
 
 ### Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
