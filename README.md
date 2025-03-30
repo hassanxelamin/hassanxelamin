@@ -7,6 +7,8 @@
 
 > 📦 568.3 kB Used in GitHub's Storage 
  > 
+> 🏆 183 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -40,20 +42,16 @@ Sunday                   62 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       ██████████████████████░░░   89.49 % 
-Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-server                   2 hrs 49 mins       █████████████████████░░░░   85.29 % 
-dubber                   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 hrs 18 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +71,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hassanxelamin/hassanxelamin/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:39:08 UTC
+ Last Updated on 30/03/2025 18:39:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
