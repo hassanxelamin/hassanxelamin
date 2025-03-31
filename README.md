@@ -5,15 +5,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 568.3 kB Used in GitHub's Storage 
- > 
-> 🏆 183 Contributions in the Year 2025
+> 📦 568.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 94 Private Repositories 
+> 🔑 95 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -57,11 +55,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               48 repos            █████████████░░░░░░░░░░░░   51.61 % 
-Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-JavaScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+TypeScript               49 repos            █████████████░░░░░░░░░░░░   52.13 % 
+Python                   22 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+JavaScript               12 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 
 
@@ -71,7 +69,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hassanxelamin/hassanxelamin/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 18:39:03 UTC
+ Last Updated on 31/03/2025 18:41:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
