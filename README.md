@@ -7,8 +7,6 @@
 
 > 📦 600.8 kB Used in GitHub's Storage 
  > 
-> 🏆 198 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -71,7 +69,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hassanxelamin/hassanxelamin/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2025 18:41:47 UTC
+ Last Updated on 12/04/2025 18:39:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
