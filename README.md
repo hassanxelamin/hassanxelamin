@@ -7,13 +7,13 @@
 
 > 📦 600.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 198 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 4 Public Repositories 
  > 
-> 🔑 100 Private Repositories 
+> 🔑 98 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -42,16 +42,20 @@ Sunday                   63 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 34 mins             ███████████████░░░░░░░░░░   60.34 % 
+Python                   16 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+codebase                 57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +75,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hassanxelamin/hassanxelamin/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 18:39:50 UTC
+ Last Updated on 14/04/2025 18:42:38 UTC
 <!--END_SECTION:waka-->
 
 <!--
