@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 608.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 204 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,7 +78,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hassanxelamin/hassanxelamin/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 18:42:13 UTC
+ Last Updated on 17/04/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
 
 <!--
